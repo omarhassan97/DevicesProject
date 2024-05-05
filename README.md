@@ -2,9 +2,13 @@
 
 This repository contains the implementation of a Machine Learning model to predict the price range of mobile devices based on their specifications. The model is served through a FastAPI web application, providing a RESTful API for interacting with the prediction model.
 
+
 ## Overview
 
 The project encompasses the entire workflow of a machine learning project, from exploratory data analysis (EDA) and feature engineering to model fitting and API deployment.
+
+
+[Video for explainning work done on the porject](https://www.loom.com/share/5663d1208a244382a43115494a88f2c0?sid=b2e7d27e-014c-411e-8ace-990a42acff73)
 
 ### Exploratory Data Analysis (EDA)
 
