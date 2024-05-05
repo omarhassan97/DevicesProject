@@ -54,6 +54,6 @@ The FastAPI framework is used to serve the machine learning model as a RESTful A
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/device-price-prediction.git
-cd device-price-prediction
+git clone https://github.com/omarhassan97/DevicesProjec.git
+cd DevicesProjec
 pip install -r requirements.txt
