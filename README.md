@@ -46,8 +46,8 @@ The FastAPI framework is used to serve the machine learning model as a RESTful A
 
 ### Prerequisites
 
-- Python 3.8+
-- pip
+- FastAPI
+- uvicorn
 
 ### Installation
 
@@ -57,3 +57,16 @@ Clone the repository and install the required packages:
 git clone https://github.com/omarhassan97/DevicesProjec.git
 cd DevicesProjec
 pip install -r requirements.txt
+
+### API
+To run the server
+```bash
+uvicorn main:app --reload
+
+This will start the server on http://127.0.0.1:8000, where you can access the API and view the automatically generated API documentation at http://127.0.0.1:8000/docs.
+
+
+
+
+
+
